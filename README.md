@@ -7,9 +7,10 @@ Using the *Json, OS and Shutil libraries* along with *A customtkinter GUI*, You 
 
 # How to run it
 Firstly:
- - The Application **Can not be run in A Python terminal**
- - It shall be run in An application terminal **Such as *Visual studio code****
- - Libraries **Customtkinter** shall be installed
+  - **Windows ONLY**
+  - The Application **Can not be run in A Python terminal**
+  -  It shall be run in An application terminal **Such as *Visual studio code****
+  - Libraries **Customtkinter** shall be installed
 On visual studio code; Find the file *cfirsttime.py*; and run the file everytime you'd like to start the Application. 
 
 # Startup
