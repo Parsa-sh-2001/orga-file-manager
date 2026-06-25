@@ -1,0 +1,5 @@
+Code Extention files: 
+    ".py", ".cpp", ".c", ".h", ".hpp", ".java", ".js", ".ts", ".rs", ".go", ".rb", ".php",
+    ".html", ".css", ".scss", ".less", ".jsx", ".vue", ".sh", ".bash", ".zsh", ".ps1",
+    ".md", ".rst", ".tex", ".json", ".yaml", ".yml", ".xml", ".toml", ".ini", ".conf", ".env",
+    ".gitignore", ".dockerignore", ".eslintrc", ".babelrc", ".Dockerfile"

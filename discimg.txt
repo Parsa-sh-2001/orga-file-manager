@@ -1,0 +1,2 @@
+Disc images supported:
+    ".zip", ".tar", ".gz", ".7z", ".rar", ".iso", ".dmg", ".img",

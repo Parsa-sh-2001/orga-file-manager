@@ -1,0 +1,3 @@
+Supported extentions:
+    ".csv", ".tsv", ".xlsx", ".xls", ".parquet", ".avro", ".hdf5", ".npy", ".pkl",
+    ".sql", ".sqlite", ".db", ".jsonl"

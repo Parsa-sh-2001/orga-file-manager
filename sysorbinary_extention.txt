@@ -1,0 +1,2 @@
+System/Binary or executable file extentions:
+    ".exe", ".bin", ".elf", ".app", ".msi", ".deb", ".rpm"

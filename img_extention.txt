@@ -1,0 +1,3 @@
+Image extentions:
+    ".png", ".jpg", ".jpeg", ".webp", ".svg", ".gif", ".bmp", ".tiff", ".ico",
+    ".psd", ".ai", ".blend"

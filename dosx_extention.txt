@@ -1,0 +1,2 @@
+Documents supported:
+    ".pdf", ".doc", ".docx", ".txt", ".rtf",
